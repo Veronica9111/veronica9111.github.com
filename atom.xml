@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-08T13:44:33.000Z</updated>
+  <updated>2015-10-08T13:48:14.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,8 +18,8 @@
     <title><![CDATA[How to Setup Blog with Hexo]]></title>
     <link href="http://yoursite.com/2015/10/08/how-to-set-up-blog-with-hexo/"/>
     <id>http://yoursite.com/2015/10/08/how-to-set-up-blog-with-hexo/</id>
-    <published>2015-10-08T13:44:33.000Z</published>
-    <updated>2015-10-08T13:44:33.000Z</updated>
+    <published>2015-10-08T13:48:14.000Z</published>
+    <updated>2015-10-08T13:48:14.000Z</updated>
     <content type="html"><![CDATA[<p>date: 2015-10-08 20:58:43</p>
 <p>This article is the introduction of how to setup your own blog on github.<br>Github could serve the content inside <your username="">.github.com on the domain <your username="">.github.io. Here we’re using hexo(Node.js) to generate static web pages and push them onto repo. In the other words, you could also use(or create)other blog framework to do this job.</your></your></p>
 <h1 id="Preparations">Preparations</h1><h2 id="Register_on_Github">Register on Github</h2><p>You could find Github <a href="https://github.com/" target="_blank" rel="external">here</a>. BTW, choose a good username otherwise you will be regret later.</p>
@@ -40,7 +40,9 @@
 </ol>
 <p>Now you could goto <your username="">.github.io to check your blog!</your></p>
 <p>You could also use “hexo server” to run the blog on localhost before deploy to the real site:)</p>
-<h2 id="tags:">tags:</h2><p>学术</p>
+<h2 id="tags:">tags:</h2><ul>
+<li>学术</li>
+</ul>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>date: 2015-10-08 20:58:43</p>
