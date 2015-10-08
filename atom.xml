@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-06T14:51:18.000Z</updated>
+  <updated>2015-10-08T10:44:32.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,14 +16,14 @@
   
   <entry>
     <title><![CDATA[2015-10-06]]></title>
-    <link href="http://yoursite.com/2015/10/06/2015-10-06/"/>
-    <id>http://yoursite.com/2015/10/06/2015-10-06/</id>
-    <published>2015-10-06T14:51:18.000Z</published>
-    <updated>2015-10-06T14:51:18.000Z</updated>
+    <link href="http://yoursite.com/2015/10/08/2015-10-06/"/>
+    <id>http://yoursite.com/2015/10/08/2015-10-06/</id>
+    <published>2015-10-08T10:44:32.000Z</published>
+    <updated>2015-10-08T10:44:32.000Z</updated>
     <content type="html"><![CDATA[<p>date: 2015-10-06 22:14:12</p>
 <pre><code>今天在家里宅了一天。
 其间终于把那幅画画了一大半，感冒也终于变成了咳嗽。
-<span class="comment"><img class="images/IMG_8701.JPG"></span>
+<span class="comment"><img src="https://github.com/Veronica9111/veronica9111.github.com/blob/master/images/IMG_8715.JPG?raw=true"></span>
 还去看了一眼淘宝的购物车居然没有什么想要买的东西了真是太好。
 好了昨天给Kindle冲完电今天就可以看书了。
 Kindle要是能够再大点就好了，像B5那么大。
@@ -36,7 +36,7 @@ Kindle要是能够再大点就好了，像B5那么大。
     <![CDATA[<p>date: 2015-10-06 22:14:12</p>
 <pre><code>今天在家里宅了一天。
 其间终于把那幅画画了一大半，感冒也终于变成了咳嗽。
-<span class="comment"><img class="images/IMG_8701.JPG"></sp]]>
+<span class="comment"><img src="https://github.com/Veronica]]>
     </summary>
     
   </entry>
