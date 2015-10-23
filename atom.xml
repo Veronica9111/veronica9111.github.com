@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-08T13:49:28.000Z</updated>
+  <updated>2015-10-23T16:28:03.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,55 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[2015-10-23]]></title>
+    <link href="http://yoursite.com/2015/10/24/2015-10-23/"/>
+    <id>http://yoursite.com/2015/10/24/2015-10-23/</id>
+    <published>2015-10-23T16:28:03.000Z</published>
+    <updated>2015-10-23T16:28:03.000Z</updated>
+    <content type="html"><![CDATA[<pre><code>大家好我的博客还活着！
+
+这一周开始在新的公司工作了。其中有一天早上果然跑错了四号线的站台。
+
+因为早上九点要打卡的，明显感受到了压力。可是我在E///工作的第一年呢，其实每天都是八点四十五之前到的呀。果然会懒掉呢。
+
+然后也是赶了一番代码，但是我现在要欢（hao）度（hao）周（<span class="keyword">bu）末（jiao）了。
+</span>
+这一周开始喝大麦清汁了。果然是很难喝的东西。我果然讨厌叶绿素的味道。而且这货在冷水里的溶解度也太低了吧，而很巧的是我可讨厌喝热水了。
+
+喜欢吃蔬菜的人和喜欢喝热水的人一定重叠率特别高，别问我为什么。
+
+上个周末买了tfboys的明信片，是的你们没有看错不是KinKi Kids， 不是<span class="keyword">Back </span><span class="keyword">Street </span><span class="keyword">Boys, </span>就是TFboys.
+
+本来想和老妈论述一把老王有多么帅的，然后看到官方把他拍那么胖，我也安利不动了。
+
+我觉得，觉得老王胖的，无论饭还是黑，我是唯一一个。
+
+有空要去五角场逛逛，然而最近想看的电视剧有点多，下班了只想回家啊。
+
+感谢上帝我又开始珍惜时间了。
+
+明天还有演唱会要去听，抢的酱油票。
+
+尽管我看过好多场演唱会了，但事实上，并没有怎么看过自己的爱豆。略忧伤。
+
+也入了一堆水彩颜料的小样，得出的结论就是还是荷尔拜因最合适了。特别后悔没在日本多买一点。又不贵，也不重。。。
+
+好了滚去睡觉了。
+</code></pre><p>date: 2015-10-24 00:00:03</p>
+<h2 id="tags:">tags:</h2>]]></content>
+    <summary type="html">
+    <![CDATA[<pre><code>大家好我的博客还活着！
+
+这一周开始在新的公司工作了。其中有一天早上果然跑错了四号线的站台。
+
+因为早上九点要打卡的，明显感受到了压力。可是我在E///工作的第一年呢，其实每天都是八点四十五之前到的呀。果然会懒掉呢。
+
+然后也是赶了一番代码，但是我现在要欢（]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[How to Setup Blog with Hexo]]></title>
