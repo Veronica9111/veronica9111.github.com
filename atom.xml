@@ -3,9 +3,9 @@
   <title><![CDATA[一宅一生]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
+  <link href="http://kyrk.us/"/>
   <updated>2015-10-23T16:28:03.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://kyrk.us/</id>
   
   <author>
     <name><![CDATA[毛线兔]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[2015-10-23]]></title>
-    <link href="http://yoursite.com/2015/10/24/2015-10-23/"/>
-    <id>http://yoursite.com/2015/10/24/2015-10-23/</id>
+    <link href="http://kyrk.us/2015/10/24/2015-10-23/"/>
+    <id>http://kyrk.us/2015/10/24/2015-10-23/</id>
     <published>2015-10-23T16:28:03.000Z</published>
     <updated>2015-10-23T16:28:03.000Z</updated>
     <content type="html"><![CDATA[<pre><code>大家好我的博客还活着！
@@ -65,8 +65,8 @@
   
   <entry>
     <title><![CDATA[How to Setup Blog with Hexo]]></title>
-    <link href="http://yoursite.com/2015/10/08/how-to-set-up-blog-with-hexo/"/>
-    <id>http://yoursite.com/2015/10/08/how-to-set-up-blog-with-hexo/</id>
+    <link href="http://kyrk.us/2015/10/08/how-to-set-up-blog-with-hexo/"/>
+    <id>http://kyrk.us/2015/10/08/how-to-set-up-blog-with-hexo/</id>
     <published>2015-10-08T13:49:28.000Z</published>
     <updated>2015-10-08T13:49:28.000Z</updated>
     <content type="html"><![CDATA[<p>date: 2015-10-08 20:58:43</p>
@@ -103,8 +103,8 @@
   
   <entry>
     <title><![CDATA[2015-10-06]]></title>
-    <link href="http://yoursite.com/2015/10/08/2015-10-06/"/>
-    <id>http://yoursite.com/2015/10/08/2015-10-06/</id>
+    <link href="http://kyrk.us/2015/10/08/2015-10-06/"/>
+    <id>http://kyrk.us/2015/10/08/2015-10-06/</id>
     <published>2015-10-08T10:44:32.000Z</published>
     <updated>2015-10-08T10:44:32.000Z</updated>
     <content type="html"><![CDATA[<p>date: 2015-10-06 22:14:12</p>
@@ -130,8 +130,8 @@ Kindle要是能够再大点就好了，像B5那么大。
   
   <entry>
     <title><![CDATA[hello]]></title>
-    <link href="http://yoursite.com/2015/10/06/hello/"/>
-    <id>http://yoursite.com/2015/10/06/hello/</id>
+    <link href="http://kyrk.us/2015/10/06/hello/"/>
+    <id>http://kyrk.us/2015/10/06/hello/</id>
     <published>2015-10-05T18:26:14.000Z</published>
     <updated>2015-10-05T18:26:14.000Z</updated>
     <content type="html"><![CDATA[<p>date: 2015-10-06 02:24:38<br>    哈哈部署好博客了，正在欢快的摇尾巴中。<br>    这是我第n+m个博客了。<br>    高中时候的ゆめ是能够做一个自己的网站，从每一张图每一个配色开始，自己做一个网站。<br>    后来发现不论技术，审美就已经是硬伤了。<br>    工作了之后也有想过要写一套通用的组件框架，后来发现越是细节化的定制，用起来越是糟糕。<br>    想想那时候分明连以后会去什么大学都不知道呢，他们怎么都一口咬定我会去写网站。<br>    即使到了通信公司，即使明明一开始说是做FT的，结果一天都没做就真的写网站去了。<br>    我大概，果然，还是要写网站的吧。<br>    毕竟像我这种手癌没法做硬件，还看3D会晕，一点都不喜欢玩游戏。<br>    如果失败的话，这里就会是个技术博，换而言之，如果成功的话就会是世间万物。<br>    哦大概不会有文。<br>    想想程序猿的世界里出现凯源千文KKTT也是二十分的反差萌呢。</p>
